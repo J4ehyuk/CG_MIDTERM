@@ -1,0 +1,3 @@
+﻿  temp.c
+C:\Users\USER\source\repos\CG_project\CG_project\temp.c(239,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  CG_project.vcxproj -> C:\Users\USER\source\repos\CG_project\Debug\CG_project.exe
