@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Midterm.c">
+    <ClCompile Include="v1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="temp.c">
+    <ClCompile Include="v2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="v3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

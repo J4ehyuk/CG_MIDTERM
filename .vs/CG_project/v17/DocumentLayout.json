@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\CG_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\temp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|solutionrelative:CG_project\\temp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|solutionrelative:CG_project\\v3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\Midterm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|solutionrelative:CG_project\\Midterm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|solutionrelative:CG_project\\v2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B7F4830-C25E-4439-A36A-C812F98B2984}|CG_project\\CG_project.vcxproj|solutionrelative:CG_project\\v1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,25 +43,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "temp.c",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\temp.c",
-              "RelativeDocumentMoniker": "CG_project\\temp.c",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\temp.c",
-              "RelativeToolTip": "CG_project\\temp.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "v3.c",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v3.c",
+              "RelativeDocumentMoniker": "CG_project\\v3.c",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v3.c",
+              "RelativeToolTip": "CG_project\\v3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-03T17:25:06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "v2.c",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v2.c",
+              "RelativeDocumentMoniker": "CG_project\\v2.c",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v2.c",
+              "RelativeToolTip": "CG_project\\v2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-02T19:17:11.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Midterm.c",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\Midterm.c",
-              "RelativeDocumentMoniker": "CG_project\\Midterm.c",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\Midterm.c",
-              "RelativeToolTip": "CG_project\\Midterm.c",
-              "ViewState": "AgIAALcAAAAAAAAAAAAuwMYAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "v1.c",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v1.c",
+              "RelativeDocumentMoniker": "CG_project\\v1.c",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CG_project\\CG_project\\v1.c",
+              "RelativeToolTip": "CG_project\\v1.c",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAuwMYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-01T06:59:27.919Z",
               "EditorCaption": ""
