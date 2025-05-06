@@ -15,14 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="v1.c">
+    <ClCompile Include="midterm_project.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="v2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="v3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

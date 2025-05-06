@@ -1,3 +1,4 @@
-﻿  temp2.c
-C:\Users\USER\source\repos\CG_project\CG_project\temp2.c(221,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+﻿  midterm_project.c
+C:\Users\USER\source\repos\CG_project\CG_project\midterm_project.c(471,8): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\source\repos\CG_project\CG_project\midterm_project.c(659,18): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
   CG_project.vcxproj -> C:\Users\USER\source\repos\CG_project\Debug\CG_project.exe
